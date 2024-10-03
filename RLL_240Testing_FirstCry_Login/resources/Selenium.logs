@@ -1,0 +1,8 @@
+23:15:31,299  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:50 - Browser maximized
+23:15:40,047  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:56 - Login button clicked successfully
+23:15:40,106  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:64 - User enters the FirstCry app successfully
+23:16:03,491  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:52 - User successfully navigates to Home page
+23:16:10,173  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:58 - clicks on login successfully
+23:16:11,459  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:64 - email id enters successfully
+23:16:43,795  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:70 - clicks on continue button successfully
+23:16:44,606  INFO com.stepdefinition.RLL_240Testing_FirstCry_Login.StepDefinition_Home<strong>{1}</strong>:75 - successfully submitted
